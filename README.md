@@ -87,7 +87,7 @@ This project was developed by Emmelyn Adams, a Computer Science student at North
 **Connect with me:**
 - GitHub: [@EmmsAdams](https://github.com/EmmsAdams)
 - Email: emmelynadams40@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: Emmelyn Adams 
 - Location: Newcastle, UK
 
 ## License
