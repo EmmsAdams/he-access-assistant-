@@ -82,7 +82,7 @@ This project taught me:
 
 ## 👤 About the Developer
 
-This project was developed by Emmelyn Adams as part of my Computer Science studies at Northumbria University. It combines my technical skills with my volunteer work at Aspiring Dreams, where I help asylum seekers and refugees navigate university application processes.
+This project was independently developed by Emmelyn Adams, a Computer Science student at Northumbria University. It combines my technical skills with my volunteer work at Aspiring Dreams, where I help asylum seekers and refugees navigate university application processes. This is a personal initiative to address a real need I identified in my community work.
 
 **Connect with me:**
 - GitHub: [@EmmsAdams](https://github.com/EmmsAdams)
